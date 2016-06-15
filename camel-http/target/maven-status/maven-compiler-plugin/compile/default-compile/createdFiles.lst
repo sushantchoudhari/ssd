@@ -1,0 +1,17 @@
+org\apache\camel\component\http\CompositeHttpConfigurer.class
+org\apache\camel\component\http\HttpEndpoint.class
+org\apache\camel\component\http\http.json
+org\apache\camel\component\http\RequestEntityConverter.class
+org\apache\camel\component\http\BasicAuthenticationHttpClientConfigurer.class
+org\apache\camel\component\http\HttpClientConfigurer.class
+org\apache\camel\component\http\HttpPollingConsumer.class
+org\apache\camel\component\http\HttpProducer.class
+org\apache\camel\component\http\https.json
+org\apache\camel\component\http\http.html
+org\apache\camel\component\http\https.html
+org\apache\camel\component\http\NTLMAuthenticationHttpClientConfigurer.class
+org\apache\camel\component\http\AuthMethod.class
+org\apache\camel\component\http\SSLContextParametersSecureProtocolSocketFactory.class
+org\apache\camel\component\http\HttpComponent.class
+org\apache\camel\component\http\HttpOperationFailedException.class
+org\apache\camel\component\http\HttpMethods.class

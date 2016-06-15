@@ -1,0 +1,13 @@
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\CompositeHttpConfigurer.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpClientConfigurer.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\NTLMAuthenticationHttpClientConfigurer.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\AuthMethod.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpComponent.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpMethods.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\RequestEntityConverter.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\SSLContextParametersSecureProtocolSocketFactory.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpPollingConsumer.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\BasicAuthenticationHttpClientConfigurer.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpProducer.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpEndpoint.java
+C:\Downloads\camel-master\camel-master\components\camel-http\src\main\java\org\apache\camel\component\http\HttpOperationFailedException.java

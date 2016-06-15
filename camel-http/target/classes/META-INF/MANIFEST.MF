@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Camel :: HTTP
+Implementation-Version: 2.18-SNAPSHOT
+Built-By: prashant
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Camel :: HTTP
+Implementation-Vendor-Id: org.apache.camel
+Build-Jdk: 1.8.0_60
+Specification-Version: 2.18-SNAPSHOT
+Implementation-URL: http://camel.apache.org/camel-parent/components/ca
+ mel-http
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: The Apache Software Foundation
+
